@@ -1,6 +1,6 @@
 # OdooLocust
 
-An Odoo load testing solution, using odoolib and Locust
+An Odoo12 load testing solution, using odoolib and Locust
 
 ## Links
 
